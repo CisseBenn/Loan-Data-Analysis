@@ -1,2 +1,2 @@
 # Loan-Data-Analysis
-A fun project at Uubnifu College
+A fun project at Ubunifu College
